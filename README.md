@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Project Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Calculator
 
-## Available Scripts
+# 📜 Description the project.
+This project is about a calculator app with home, and contact page. I used JavaScript library (React) for UI and JavaScript function for functionality
+## 🏛 Built With
 
-In the project directory, you can run:
+- CSS
+- JavaScript
+- React & Redux
+- ES6 Modules
+- Webpak-config.
+- following linters standards.
+- following github flows standards.
+- following git flows standards.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🖥️LIVE DEMO
+You can use Leaderboard by clicking [here]()
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📑 Authors
 
-### `npm test`
+👤 **Ahmed Zaki Yousufi**
+- GitHub: [Ahmed Zaki Yousufi](https://github.com/zakiyousufi)
+- LinkedIn: [Ahmed Zaki Yousufi](https://www.linkedin.com/in/ahmadzaki-yousufi-055214217/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## ⚙ Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy up and running... 
+Follow these seteps
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ## 📋Setup
+to use the project Calculator please follow :
+ >Open [github.com](https://github.com) and go to my GitHub Profile >>Repositorys
+ Repository name: [calculator](https://github.com/zakiyousufi/calculator).
+ ** To clone
+ >Click “Code” and copy the given [URL].
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ >Open “Git Bash or CMD terminal”
 
-### `npm run eject`
+ >Select the location on your PC by typing [cd]    
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+After the selecting location
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ >Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ >Syntax:
+  >>> cd [folder name] eg: desktop 
+  >>> git clone [repository URL]
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🔌Usage
 
-## Learn More
+>open your directory calculator/
+to run the file :
+_use vs-code or any IDE  to view line code .
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_use you preferd browser to run the file .html to get project website.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
 
-### Code Splitting
+Contributions, issues, and feature requests are welcome!
+thanks:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🙏🏻 Show your support
 
-### Analyzing the Bundle Size
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📝 License
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.
