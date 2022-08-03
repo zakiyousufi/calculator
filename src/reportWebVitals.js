@@ -1,4 +1,5 @@
-const reportWebVitals = onPerfEntry((onPerfEntry) => {
+const reportWebVitals = onPerfEntry(() => {
+  const onPerfEntry = 0;
   if (onPerfEntry && onPerfEntry instanceof Function) {
     import(
       'web-vitals'
