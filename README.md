@@ -47,17 +47,18 @@ After the selecting location
  >Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
  >Syntax:
-  >>> cd [folder name] eg: desktop 
-  >>> git clone [repository URL]
+- cd [folder name] // eg: cd desktop 
+- git clone URL // git clone git@github.com:zakiyousufi/calculator.git
 
 ### 🔌Usage
 
->open your directory calculator/
-to run the file :
-_use vs-code or any IDE  to view line code .
-
-_use you preferd browser to run the file .html to get project website.
-
+> After the cloning finished...
+TRY THESE COMMANDS
+- cd calculator
+- npm install
+- npm start
+The project will automatically run into your defalt browser
+--- To see the codes and edit them You can use VScode or any other IDE
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
