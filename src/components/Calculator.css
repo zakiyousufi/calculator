@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5em;
+}
+
+.cal-title {
+  color: #253759;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+button {
+  background-color: #dfdfdf;
+  border: 1px solid #b9b9b9;
+  font-size: 1.2rem;
+}
+
+.grid-container {
+  padding: 3rem;
+  display: grid;
+  grid-template-columns: repeat(4, 5rem);
+  grid-template-rows: minmax(4rem, auto) repeat(5, 3rem);
+}
+
+.span-4 {
+  grid-column: 1/-1;
+  background-color: #848593;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 0.3em;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+.operation {
+  background-color: #f49040;
+}
