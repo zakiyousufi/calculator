@@ -52,12 +52,12 @@ After the selecting location
 
 ### 🔌Usage
 
-> After the cloning finished...
+> After the cloning finished...<br>
 TRY THESE COMMANDS
 - cd calculator
 - npm install
 - npm start
-The project will automatically run into your defalt browser
+<br>The project will automatically run into your defalt browser<br>
 --- To see the codes and edit them You can use VScode or any other IDE
 ## 🤝 Contributing
 
